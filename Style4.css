@@ -1,0 +1,123 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+        h1{
+            background-image:linear-gradient(orange,white, green);
+            text-align: center;
+          
+        }
+    
+        body{
+            /*background-color:antiquewhite;*/
+            background-image: url(https://th.bing.com/th/id/OIP.o14nANT_2gOcLtMCcwnAfQHaEK?w=302&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7);
+            background-size: cover;
+        }
+            
+        #a{
+            position:absolute;
+            width:400px;
+            height:200px;
+            border:3px solid #737373    
+        }
+        #b{
+            position: absolute;
+            top:100px;
+            left: 29px;
+            
+        }
+        h4{
+            position: absolute;
+        
+            top:200px;
+            left:100px;
+            /*background-color:cadetblue;
+            */
+            background-image: linear-gradient(pink);
+            
+        }
+        p{
+            position:absolute;
+            top:300px;      
+}
+          div{
+            height: 400px;
+ background-image:linear-gradient( pink);
+            border-width: 5px;
+            border-style:solid;
+            border-color:black;
+            border:5px;
+            text-align: center;
+            
+        }
+        img{
+            border-bottom:2px;
+        
+        }
+        h2{
+            position: absolute;
+            top:280px;
+            left:100px;
+        
+        }
+     
+       h1{
+           background-image:linear-gradient(orange,white, green);
+           text-align: center;
+         
+       }
+   
+       body{
+           /*background-color:antiquewhite;*/
+           background-image: url(https://th.bing.com/th/id/OIP.o14nANT_2gOcLtMCcwnAfQHaEK?w=302&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7);
+           background-size: cover;
+       }
+           
+       #a{
+           position:absolute;
+           width:400px;
+           height:200px;
+           border:3px solid #737373    
+       }
+       #b{
+           position: absolute;
+           top:100px;
+           left: 29px;
+           
+       }
+       h4{
+           position: absolute;
+       
+           top:200px;
+           left:100px;
+           /*background-color:cadetblue;
+           */
+           background-image: linear-gradient(pink);
+           
+       }
+       p{
+           position:absolute;
+           top:300px;      
+}
+         div{
+           height: 480px;
+background-image:linear-gradient( pink);
+           border-width: 5px;
+           border-style:solid;
+           border-color:black;
+           border: double  3px;
+           text-align: center;
+           
+       }
+       img{
+           border-bottom:2px;
+           
+
+       }
+       h2{
+           position: absolute;
+           top:280px;
+           left:100px;
+       
+       }
+    
